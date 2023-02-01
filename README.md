@@ -1,0 +1,2 @@
+# Grow-your-Airbnb-Profile-
+The project helps new and existing Airbnb hosts enhance their growth by showcasing factors that affect their Airbnb prices and providing recommendations to maximize revenue generation. The dataset is about Airbnb listings in the Seattle region which includes the full descriptions, average review scores, number of beds, number of bathrooms, price, and other factors for each listing. The total number of rows is 3818 and the columns are 37.
